@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mh-design-smartrepair.github.io/sitemap.xml
