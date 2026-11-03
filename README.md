@@ -1,6 +1,6 @@
 # MH Design – Webseite
 
-Website für Ricardo Hartleb / MH Design in Mihla. Veröffentlichung als Kursprojekt über GitHub Pages: https://mh-design-smartrepair.github.io/ . Kein Build und keine Installation nötig.
+Website für Ricardo Hartleb / MH Design in Mihla. Veröffentlichung über GitHub Pages: https://mh-design-smartrepair.github.io/ . Kein Build und keine Installation nötig.
 
 ## Vorschau
 
@@ -40,7 +40,7 @@ Browser-Prüfung und Screenshots: siehe `docs/qa/PRUEFBERICHT.md`.
 
 ## Veröffentlichung
 
-Kontaktdaten sind vom Nutzer bestätigt. Impressum und Datenschutz sind jetzt als Kursprojekt-Fassung in impressum.html und datenschutz.html eingebaut und im Footer verlinkt. Die echte Umsatzsteuer-ID ist auf Nutzerwunsch ausgelassen; GitHub Pages ist als vorgesehenes Hosting berücksichtigt. Diese Projektfassung ist kein vollständiger Rechtstext für einen echten Geschäftsbetrieb. Register-/Kammerangaben, Verbraucherschlichtung und tatsächliche Vertragsgrundlagen sind vor einem solchen Einsatz zu prüfen. Veröffentlichung vom Nutzer am 19.10.2026 ausdrücklich freigegeben. GitHub Pages verwendet main und das Stammverzeichnis. `noindex,nofollow` bleibt für das Kursprojekt gesetzt.
+Kontaktdaten sind vom Nutzer bestätigt. Impressum (impressum.html) und Datenschutzerklärung (datenschutz.html) sind seit 03.11.2026 auf den echten Geschäftsbetrieb umgestellt und im Footer verlinkt. Kleinunternehmer nach § 19 UStG, daher keine USt-ID. Wird ein externer Dienst eingebunden (Schriften, Karten, Formular, Analyse, YouTube), muss die Datenschutzerklärung angepasst werden. GitHub Pages verwendet main und das Stammverzeichnis. `noindex,nofollow` ist weiterhin gesetzt.
 
 ## SEO und Linkvorschau
 
