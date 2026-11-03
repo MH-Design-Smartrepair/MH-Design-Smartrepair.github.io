@@ -1,6 +1,6 @@
 # MH Design – Webseite
 
-Website für Ricardo Hartleb / MH Design in Mihla. Veröffentlichung als Kursprojekt über GitHub Pages: https://frauh0815.github.io/MH_DESIGN/ . Kein Build und keine Installation nötig.
+Website für Ricardo Hartleb / MH Design in Mihla. Veröffentlichung als Kursprojekt über GitHub Pages: https://mh-design-smartrepair.github.io/ . Kein Build und keine Installation nötig.
 
 ## Vorschau
 
@@ -16,7 +16,7 @@ Alternativ `index.html` direkt im Browser öffnen. Für eine vollständige Prüf
 - `service-cards.css` / `site.js`: Leistungskarten, gleiche Höhen der geschlossenen Karten, aktuelle Navigationsposition.
 - `motion.css` / `motion.js`: Einstieg und Scrollbewegung, Pause-Schalter und Berücksichtigung reduzierter Bewegung.
 - `videos.js`: pausiert das jeweils andere Video und zeigt bei Ladefehlern einen direkten Dateilink.
-- `404.html`: Fehlerseite mit Links für den GitHub-Pages-Unterpfad /MH_DESIGN/.
+- `404.html`: Fehlerseite mit absoluten Pfaden ab der Domain-Wurzel.
 
 Die frühere Datei `enhancements.css` und die nicht benötigten Google-Fonts-Imports wurden entfernt. Bestehende Medien und fremde Projektunterlagen bleiben erhalten.
 
