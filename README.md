@@ -22,13 +22,14 @@ Die frühere Datei `enhancements.css` und die nicht benötigten Google-Fonts-Imp
 
 ## Medien
 
-- `assets/hero-konzept.webp`: optimierte Version des bisherigen KI-Konzeptbildes, 229.136 statt 2.503.164 Bytes. Auf der Webseite als Symbolbild gekennzeichnet.
-- `assets/logo-header.svg`: bestehende transparente Logoversion für den dunklen Kopfbereich.
+- `assets/hero-natuerlich.webp`: KI-Symbolbild im Startbereich, auf der Webseite als solches gekennzeichnet.
+- `assets/logo-header.svg`: transparente Logoversion für den dunklen Kopfbereich. Eingebettetes PNG seit 03.11.2026 auf 780 × 260 und 128 Farben verkleinert (ca. 13 KB statt 481 KB).
+- `assets/og-mh-design.jpg`: Linkvorschau 1200 × 630 (Logo, Leistungen, Ort, Telefon, Standbild aus Video 02).
 - `assets/video-humor-poster.webp` und `assets/video-aufbereitung-poster.webp`: Standbilder direkt aus den jeweiligen Videos.
 - `assets/mh-design-vollstaendig.mp4`: korrigierter Canva-Export, 1080 × 1920, 15 Sekunden; vollständige Motive mit schwarzen Rändern.
 - `assets/mh-design-video-02-ohne-ton.mp4`: 478 × 850, rund 43 Sekunden; Tonspur entfernt, Videodaten ohne Neukodierung erhalten.
 
-Originalmedien bleiben als Quellen erhalten und werden von der Webseite nicht geladen.
+Ungenutzte Medien (`hero-konzept.webp`, `mh-design-01.mp4`) wurden am 03.11.2026 entfernt und sind über die Git-Historie weiter abrufbar.
 
 ## Prüfung
 
